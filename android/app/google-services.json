@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226939050228",
+    "project_id": "myroomy2",
+    "storage_bucket": "myroomy2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226939050228:android:bca550f64b654cdce226a1",
+        "android_client_info": {
+          "package_name": "com.example.myroomy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRuJpUwiM1cMQ804dV_B5-bP_TNcUiDGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
